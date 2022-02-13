@@ -6,7 +6,7 @@ const Projets = () => {
         <div className='projets'>
             <Navigation/>
             <h1>page projet</h1>
-            utvuvvvv§v
+            utvuvvvv§viviub
             
         </div>
     );
